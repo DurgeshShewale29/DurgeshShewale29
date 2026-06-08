@@ -159,6 +159,7 @@ class DurgeshShewale:
 - 📊 **NASSCOM Accenture** — Exploratory Data Analysis (AI Ready)
 - 🌏 **National Chung Cheng University, Taiwan** — 3rd Place, Spectra Vision Workshop (2025)
 - 🏆 **DIPEX Hackathon** — State Level Project Presentation Competition
+- 🏆 **OpenAI Academy X NxtWave Regional Buildation** — State Level Build Competition
 
 ---
 
