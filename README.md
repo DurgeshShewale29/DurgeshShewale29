@@ -24,10 +24,9 @@ class DurgeshShewale:
     role     = ["Full Stack Developer", "AI / ML Engineer"]
     location = "Malegaon, Maharashtra, India"
     education = "B.E. Computer Engineering @ Sanivani University (2024–Present)"
-    focus    = ["LLMs", "Python", "AI Agents", "Genrative AI", "Next.js"]
+    focus    = ["LLMs", "Python", "AI Agents", "Generative AI", "Next.js"]
     building = "AI systems that solve real problems at scale"
-    intership  = ["IOCL", "HCL Tech", "Sumago"]
-
+    internship = ["IOCL", "HCL Tech", "Sumago"]
 ```
 
 ---
@@ -127,7 +126,7 @@ class DurgeshShewale:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=DurgeshShewale29&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=DurgeshShewale29&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=DurgeshShewale29&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF" />
 
 <br/><br/>
 
@@ -179,7 +178,7 @@ class DurgeshShewale:
 
 *Open to AI/ML collaborations, open source, and interesting engineering challenges.*
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/durgesh-shewale-)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shewaledurgesh29@gmail.com)
 
 <br/>
