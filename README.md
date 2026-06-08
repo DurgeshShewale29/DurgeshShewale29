@@ -125,13 +125,13 @@ class DurgeshShewale:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DurgeshShewale29&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF&count_private=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DurgeshShewale29&theme=github_dark" />
 <img width="49%" src="https://streak-stats.demolab.com/?user=DurgeshShewale29&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DurgeshShewale29&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=DurgeshShewale29&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DurgeshShewale29&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DurgeshShewale29&theme=github_dark&utcOffset=5.5" />
 
 </div>
 
