@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Durgesh+Shewale+%F0%9F%91%8B;Full+Stack+%2B+AI%2FML+Engineer;Building+Intelligent+Systems;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Spring+Boot" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Durgesh+Shewale+%F0%9F%91%8B;Full+Stack+%2B+AI%2FML+Engineer;Building+Intelligent+Systems;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Generative+AI" alt="Typing SVG" />
 
 <br/>
 
@@ -28,8 +28,6 @@ class DurgeshShewale:
     building = "AI systems that solve real problems at scale"
     intership  = ["IOCL", "HCL Tech", "Sumago"]
 
-    def fun_fact(self):
-        return "I built an AI that writes code inside a browser — in a browser 🤯"
 ```
 
 ---
@@ -40,6 +38,7 @@ class DurgeshShewale:
 
 | Project | Description | Stack | Year |
 |---------|-------------|-------|------|
+| 🏭 **[LogDigitizer-Engine](https://github.com/DurgeshShewale29/LogDigitizer-Engine)** | 100% offline AI platform for industrial log digitization with OCR, NLP & natural language SQL queries | Python · FastAPI · OpenCV · Tesseract OCR · spaCy · Ollama · SQLite | 2026 |
 | 🔥 **[Spark-AI](https://github.com/DurgeshShewale29/Spark-AI)** | AI-powered in-browser IDE with RAG "Hive Mind" — generates & previews full apps autonomously | Next.js · TypeScript · Gemini API · MongoDB Vector Search · StackBlitz | 2026 |
 | 🧠 **[Synapse-V-Assistant](https://github.com/DurgeshShewale29/Synapse-V-Assistant)** | Multimodal AI assistant with Voice/Image/PDF + GPS safety module | Python · FastAPI · Streamlit · OpenAI API | 2026 |
 | ⚡ **[ResolveX-AI](https://github.com/DurgeshShewale29/ResolveX-AI)** | Autonomous AI resolution engine | LangChain · RAG · VectorDB | 2025 |
@@ -72,10 +71,13 @@ class DurgeshShewale:
 ### 🤖 AI / ML
 <div align="center">
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Tesseract](https://img.shields.io/badge/Tesseract_OCR-FF0000?style=for-the-badge&logo=tesseract&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-58A6FF?style=for-the-badge&logo=databricks&logoColor=white)
 
 </div>
@@ -91,7 +93,6 @@ class DurgeshShewale:
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 </div>
 
@@ -102,12 +103,9 @@ class DurgeshShewale:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 </div>
 
@@ -118,7 +116,6 @@ class DurgeshShewale:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
@@ -169,7 +166,7 @@ class DurgeshShewale:
 
 | Role | Company | Duration |
 |------|---------|----------|
-| Full Stack Developer Intern | **CodVeda Technologies** | June 2025 |
+| Full Stack AI Developer Intern | **IOCL** | May 2026 - July 2026 |
 | Fullstack Developer Intern | **HCL Tech** | Mar 2025 – May 2025 |
 | Software Development Intern | **Sumago Infotech** | Jan 2024 – Feb 2024 |
 
@@ -186,6 +183,6 @@ class DurgeshShewale:
 
 <br/>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2979FF&height=120&section=footer" width="100%"/>
 
 </div>
